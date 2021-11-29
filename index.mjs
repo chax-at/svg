@@ -1,4 +1,4 @@
-import { DXF_COLOR_HEX } from '@dxfom/color/hex';
+import { DXF_COLOR_HEX } from '@dxfom/color/hex.mjs';
 import { getGroupCodeValue, getGroupCodeValues } from '@dxfom/dxf';
 import { parseDxfMTextContent } from '@dxfom/mtext';
 import { parseDxfTextContent } from '@dxfom/text';
